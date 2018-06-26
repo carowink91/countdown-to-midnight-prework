@@ -5,5 +5,5 @@ counter = n
     puts "#{n} SECOND(S)!"
     counter -= 1
   end
-"HAPPY NEW YEAR!"
+puts "HAPPY NEW YEAR!"
 end
